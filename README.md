@@ -5,6 +5,7 @@ The purpose of this analysis is to see a comparison between the average, minimum
 ## Results
 The dataset was reviewed for temperatures in the month of June and December for all years. The temperatures for June and December were then analyzed to summarize the temperature statistics for each month. One point of interest which may impact the overall analysis is that the total count of temperature observations for the month of June has 1700 datapoints, while the total count of temperature observations in December was 1517. This difference may be accounted for by some weather stations being offline, as yet unbuilt, or having a reduced quota of daily observations during the month of December. This analysis does not investigate the total count difference in each month.
 
+[June_Temps](https://github.com/JorMerr/surfs_up/blob/main/Resources/June_temps.PNG) [Decembet_Temps](https://github.com/JorMerr/surfs_up/blob/main/Resources/December_temps.PNG)
 ### Key Differences Between June and December Temperatures
 - The average temperature for the month of June is nearly 4 degrees higher than the average temperature for the month of December.
 - While the maximum temperatures for both June and December are within standard deviation, June's maximum temperature is 2 degrees warmer than December's maximum temperature.
